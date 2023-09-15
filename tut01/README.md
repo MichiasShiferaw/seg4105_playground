@@ -23,3 +23,9 @@ Student Number: 300188168
 
 ## Articles references
 
+https://www.slideshare.net/YuriyKravchenko/software-development-life-cycle-sdlc-15545167
+
+https://uottawa.brightspace.com/d2l/le/content/387458/viewContent/5458172/View
+
+
+https://www.youtube.com/watch?v=rf8Gi2RLKWQ&list=PL87GtQd0bfJwZVIA-mPF6s91io9pcxYNQ
