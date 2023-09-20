@@ -8,7 +8,7 @@ Student Name: Michias Shiferaw
 Student Number: 300188168
 
 
-## Final
+## Blog
 
 ![Comic 1](https://github.com/MichiasShiferaw/seg4105_playground/blob/main/tut01/Comics/Comic1.png)
 
