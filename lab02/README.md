@@ -9,8 +9,12 @@ Student Number: 300188168
 
 ## Objective
 
+Learn a basic introduction of Basecamp 
 
 ## TO-DO list
 
+![Comic 1](https://github.com/MichiasShiferaw/seg4105_playground/blob/main/lab02/ToDoList.png)
 
 ## Dinner Plan
+
+![Dinner Plan](https://github.com/MichiasShiferaw/seg4105_playground/blob/main/lab02/MyDinnerPlan.png)
